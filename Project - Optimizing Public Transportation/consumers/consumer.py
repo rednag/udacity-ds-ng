@@ -72,6 +72,7 @@ class KafkaConsumer:
                 logger.error(f"following error occured while consuming - {message.error()}")
                 return 0
             else:
+                self.message_handler(message)
                 return 1
 
 
