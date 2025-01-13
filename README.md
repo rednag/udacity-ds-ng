@@ -1,1 +1,2 @@
+# Udacity Data Streaming Nanodegree
 Completed projects for the Udacity Data Streaming Nanodegree containing the final exams for Kafka (_Project - Optimizing Public Transportation_) and Spark Streaming (_Project - Evaluate Human Balance_).
