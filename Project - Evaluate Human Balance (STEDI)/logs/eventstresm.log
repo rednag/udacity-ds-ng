@@ -1,0 +1,17 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Trevor.Abram@test...| -4.0|Trevor.Abram@test...|     1956|
+|Lyn.Sanchez@test.com| -4.5|Lyn.Sanchez@test.com|     1960|
+|Jacob.Jones@test.com| -1.5|Jacob.Jones@test.com|     1963|
+|Dan.Anderson@test...| -4.0|Dan.Anderson@test...|     1957|
+|David.Anandh@test...| -3.0|David.Anandh@test...|     1953|
+|David.Smith@test.com| -2.5|David.Smith@test.com|     1958|
+|Neeraj.Sanchez@te...| 28.0|Neeraj.Sanchez@te...|     1961|
+|Chris.Olson@test.com| -3.5|Chris.Olson@test.com|     1959|
+|Bobby.Gonzalez@te...| -2.5|Bobby.Gonzalez@te...|     1955|
++--------------------+-----+--------------------+---------+
+

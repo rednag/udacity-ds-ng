@@ -1,0 +1,57 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Neeraj.Doshi@test...| 26.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| 24.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|  5.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| -6.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|  8.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| 14.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| -0.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| -8.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|-16.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| -1.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| 15.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| -8.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|-33.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|-10.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|  9.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| -8.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|  7.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| 28.0|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...| 14.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|-12.5|Neeraj.Doshi@test...|     1965|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Neeraj.Doshi@test...|  4.5|Neeraj.Doshi@test...|     1965|
+|Neeraj.Doshi@test...|  6.5|Neeraj.Doshi@test...|     1965|
+|Angie.Staples@tes...| -3.0|Angie.Staples@tes...|     1954|
+|Angie.Staples@tes...| -4.0|Angie.Staples@tes...|     1954|
+|Angie.Staples@tes...| -4.0|Angie.Staples@tes...|     1954|
+|Sarah.Jefferson@t...|-14.5|Sarah.Jefferson@t...|     1940|
+|Sarah.Jefferson@t...|  2.0|Sarah.Jefferson@t...|     1940|
+|Jason.Olson@test.com| 23.0|Jason.Olson@test.com|     1939|
+|Jason.Olson@test.com|  1.5|Jason.Olson@test.com|     1939|
+|Danny.Smith@test.com| 21.5|Danny.Smith@test.com|     1962|
+|Danny.Smith@test.com| 10.5|Danny.Smith@test.com|     1962|
+|Trevor.Davis@test...| 29.0|Trevor.Davis@test...|     1946|
+|Trevor.Davis@test...|  0.0|Trevor.Davis@test...|     1946|
+|Trevor.Davis@test...|-29.5|Trevor.Davis@test...|     1946|
+|Chris.Lincoln@tes...| 11.5|Chris.Lincoln@tes...|     1943|
+|Chris.Lincoln@tes...| 13.0|Chris.Lincoln@tes...|     1943|
+|Jane.Clayton@test...|  7.0|Jane.Clayton@test...|     1941|
+|  Dan.Clark@test.com|-13.0|  Dan.Clark@test.com|     1964|
+|Jane.Clayton@test...|  2.5|Jane.Clayton@test...|     1941|
+|  Dan.Clark@test.com|-27.0|  Dan.Clark@test.com|     1964|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows

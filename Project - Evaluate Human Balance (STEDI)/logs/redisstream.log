@@ -1,0 +1,45 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|Jacob.Jones@test.com|     1963|
+|Neeraj.Sanchez@te...|     1961|
+|Lyn.Sanchez@test.com|     1960|
+|Chris.Olson@test.com|     1959|
+|David.Smith@test.com|     1958|
+|Dan.Anderson@test...|     1957|
+|Trevor.Abram@test...|     1956|
+|Bobby.Gonzalez@te...|     1955|
+|David.Anandh@test...|     1953|
+|Danny.Jones@test.com|     1952|
+|Spencer.Gonzalez@...|     1951|
+|Jerry.Phillips@te...|     1950|
+|Ashley.Doshi@test...|     1949|
+|Travis.Fibonnaci@...|     1948|
+|   Frank.Wu@test.com|     1947|
+|Ashley.Smith@test...|     1946|
+|Trevor.Hansen@tes...|     1945|
+|Sean.Clayton@test...|     1944|
+|Ashley.Olson@test...|     1942|
+| John.Jones@test.com|     1941|
++--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+
